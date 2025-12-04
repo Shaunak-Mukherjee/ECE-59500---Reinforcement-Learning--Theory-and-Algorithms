@@ -12,7 +12,7 @@
 This repository contains assignments, implementations, and notes for **ECE 59500 – Reinforcement Learning: Theory and Algorithms**, a graduate-level course focusing on theoretical foundations and algorithmic aspects of RL.
 
 
-Simulation Platforms:
+Simulation Platforms information provided in coursework:
 
 OpenAI Gym
 https://gymnasium.farama.org/ 
