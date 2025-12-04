@@ -1,7 +1,6 @@
 # 🧠 ECE 59500 — Reinforcement Learning: Theory and Algorithms
 
 > Purdue University — Graduate Course Repository  
-> Author: [Shaunak Mukherjee](https://github.com/Shaunak-Mukherjee)  
 > Term: Fall 2025  
 > Language: Python 3.10+  
 
