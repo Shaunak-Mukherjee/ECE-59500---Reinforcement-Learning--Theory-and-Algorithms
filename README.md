@@ -1,6 +1,6 @@
 # 🧠 ECE 59500 — Reinforcement Learning: Theory and Algorithms
 
-> Purdue University — Graduate Course Repository  
+> Purdue University   
 > Term: Fall 2025  
 > Language: Python 3.10+  
 
